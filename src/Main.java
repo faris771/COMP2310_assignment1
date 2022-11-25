@@ -60,7 +60,7 @@ public class Main {
 
     }
 
-    //METHOD #1, this method prolly not work, think of another one -explained in the Recording-
+    //METHOD #1, this method prolly not accepted, think of another one -explained in the Recording-
     static boolean  isBalanced(int id) {
         String tmp = Integer.toString(id);
 
